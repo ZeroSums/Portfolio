@@ -1,4 +1,4 @@
-/*! For license information please see main.e2c5c43d.js.LICENSE.txt */
+/*! For license information please see main.51fdab50.js.LICENSE.txt */
 (() => {
   var __webpack_modules__ = {
       8666: (t, e, i) => {
@@ -5046,18 +5046,18 @@
           g = {
             title: a()("Podcast \ud83c\udf99\ufe0f"),
             subtitle:
-              "I try to do a podcast every month about Cyber Security, Fourth Industrial Revolution, Risks & Opportunities to Internet of Bodies, and more.",
+              "I try to do a podcast every month about Cyber Security, Fourth Industrial Revolution & the Risks regarding the 'Internet of Bodies' +  more.",
             podcast: [" "],
             display: !0
           },
           v = {
             title: a()("Contact Me \u260e\ufe0f"),
             subtitle:
-              "For Business Inquiries - Please reach out to me through my links above..",
+              "For Business Inquiries - Please reach out to me through my links below.",
             number: "REDACTED",
             email_address: "REDACTED"
           },
-          k = {userName: "CISACyber", display: !0},
+          k = {title: "CISA Twitter", userName: "CISACyber", display: !0},
           b = !1;
       },
       2461: (t, e, i) => {
@@ -37971,4 +37971,4 @@
         });
   })();
 })();
-//# sourceMappingURL=main.e2c5c43d.js.map
+//# sourceMappingURL=main.51fdab50.js.map
