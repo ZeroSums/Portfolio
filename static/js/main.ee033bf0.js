@@ -1,4 +1,4 @@
-/*! For license information please see main.941d6cae.js.LICENSE.txt */
+/*! For license information please see main.ee033bf0.js.LICENSE.txt */
 (() => {
   var __webpack_modules__ = {
       8666: (t, e, i) => {
@@ -4896,7 +4896,7 @@
                 company: "Clements IT Consulting & Solutions",
                 companylogo: i(9743),
                 date: "Jan 2011 \u2013 Present",
-                desc: "Successfully created an IT consulting company, starting at the age of 11..",
+                desc: "Successfully created an IT consulting company, starting at the age of 11.",
                 descBullets: [
                   "Age 11: 'Developer' Role committing changes to a Minecraft Creative Server called Stormcraft | C#.",
                   "Age 12: 'Maintainer' Role within Stormcraft | C#.",
@@ -37971,4 +37971,4 @@
         });
   })();
 })();
-//# sourceMappingURL=main.941d6cae.js.map
+//# sourceMappingURL=main.ee033bf0.js.map
